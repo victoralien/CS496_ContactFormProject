@@ -1,0 +1,7 @@
+# Ignore AWS Credentials & Secrets
+.env
+aws-credentials.json
+
+# Ignore Zip Files & Dependencies
+backend/function.zip
+node_modules/
